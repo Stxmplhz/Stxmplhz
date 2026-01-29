@@ -22,7 +22,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div>
 
