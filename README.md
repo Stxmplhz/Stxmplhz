@@ -1,6 +1,6 @@
 <div>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hello,+I'm+Chanya+Suedao" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hello,+I'm+Chanya+Suedao." alt="Typing SVG" />
   </a>
   <p>
     <a href="https://linkedin.com/in/chanya-suedao-054b5b282" target="_blank">
@@ -23,7 +23,7 @@
 
 ### 🛠️ Tech Stack
 
-<div align="center">
+<div>
 
   <h4>Languages</h4>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
