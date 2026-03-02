@@ -3,6 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hello,+I'm+Chanya+Suedao." alt="Typing SVG" />
   </a>
   <p>
+    <a href="https://my-portfolio-two-omega-52.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/PORTFOLIO-a78bfa?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio"/>
+    </a>
     <a href="https://linkedin.com/in/chanya-suedao-054b5b282" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
